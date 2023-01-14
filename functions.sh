@@ -7,6 +7,5 @@ newFunction(){
             echo "$item this is as good as my wife Nneka and as precious of my son Onochie!"
         fi
     done
-
 }
 newFunction
